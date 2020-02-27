@@ -92,6 +92,7 @@ header nav {
   vertical-align: top;
   margin-top: 35px;
 }
+
 @media (max-width: 500px) {
   header nav {
     
